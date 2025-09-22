@@ -12,7 +12,13 @@
 <body class="bg-light">
 
     <div class="container py-5">
-        <h1 class="text-center mb-4">🚀 Production Test - Cars List</h1>
+        <h1 class="text-center mb-4" style="color: green; font-weight: bold;">
+            ✅ Production Test - Cars List
+        </h1>
+
+        <p class="text-center text-primary fw-bold">
+            Novi deployment je uspješno izvršen 🚀
+        </p>
 
 
         <div class="card shadow">
