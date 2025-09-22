@@ -12,5 +12,6 @@ class CarSeeder extends Seeder
         Car::create(['name' => 'Audi', 'color' => 'Black']);
         Car::create(['name' => 'BMW', 'color' => 'Blue']);
         Car::create(['name' => 'Mercedes', 'color' => 'Silver']);
+        Car::create(['name' => 'Volkswagen', 'color' => 'White']);
     }
 }
